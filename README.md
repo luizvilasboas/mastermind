@@ -4,7 +4,7 @@ This is a simple implementation of the classic board game in which the player tr
 
 ## Demo
 
-![Demo of mastermind](https://gitlab.com/olooeez/mastermind/-/raw/main/img/demo.png)
+![Demo of mastermind](https://github.com/luizvilasboas/mastermind/blob/main/img/demo.png?raw=true)
 
 ## Usage
 
@@ -23,7 +23,7 @@ You can use the following options to use mastermind:
 To run mastermind, you must clone this repository with the following command:
 
 ```
-git clone https://gitlab.com/olooeez/mastermind.git
+git clone https://github.com/luizvilasboas/mastermind.git
 ```
 
 #### Enter the cloned repository
@@ -57,7 +57,7 @@ ruby lib/tic_tac_toe.rb
 To run the program in a docker container, clone the repository to your machine first:
 
 ```
-git clone https://gitlab.com/olooeez/mastermind.git
+git clone https://github.com/luizvilasboas/mastermind.git
 ```
 
 #### Enter the cloned repository
@@ -95,4 +95,4 @@ If you would like to contribute to this project, please feel free to open a merg
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/olooeez/mastermind/-/blob/main/LICENSE) License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/luizvilasboas/mastermind/blob/main/LICENSE) License. See the LICENSE file for details.
